@@ -1,3 +1,3 @@
 # oii.s2
-//criando o primeiro siter vey
+//criando o primeiro site veyr
 
